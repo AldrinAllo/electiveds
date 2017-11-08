@@ -69,7 +69,7 @@ public class Car
     @Override
     public String toString()
     {
-        return "Plate Number : " + plateNr + " Brand:  " + brand + " model: " + model;
+        return "Plate Number: " + plateNr + " Brand:  " + brand + " model: " + model;
     }
 }
 
